@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.zc.qq.com	TRUE	/	FALSE	1427876509	uoc	8-0-9-0-9-0-0-26
